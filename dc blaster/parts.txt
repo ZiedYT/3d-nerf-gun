@@ -1,0 +1,6 @@
+Arduino nano - micro controller
+3s lipo battery
+tb6612fng - gives vcc to micro controller - controls blaster motors (wire them in parallel with B out) + proton agitator motor (not parallel with the other ones, wire it with A out)
+2 * 12V r280 dc motors - blaster flywheel motors
+12V N20 DC motor - pusher motor
+trigger button

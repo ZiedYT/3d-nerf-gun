@@ -1,0 +1,7 @@
+Arduino nano - micro controller
+3s lipo battery
+tb6612fng - controls pusher dc motor + proton agitator motor + gives vcc to micro controller
+2 * esc 30A brushless controller
+2 * brushless motors - blaster flywheel motors
+12V N20 DC motor - pusher motor
+trigger button

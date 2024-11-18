@@ -1,0 +1,8 @@
+Micro controller - battery - DC motor controller should come from the blaster
+
+A plastic container - connect it with the main unit to store the balls
+JGB37-520 - Agitator dc motor (main component)
+brushless motor - motor for the spinning fan
+30A ESC brushless controller - controls the fan
+
+While attaching the parts, make sure there is a perfect seal so you dont lose airflow! I use sponge cloths between the parts to make a seal. 
